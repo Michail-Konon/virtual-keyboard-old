@@ -11,7 +11,7 @@ window.onload = function () {
 
     let enRu = document.createElement('div');
     enRu.className = 'en-ru';
-    enRu.innerHTML = 'Для смены языка используй комбинацию левых ctrl и alt'
+    enRu.innerHTML = 'Смена языка левые ctrl и alt. Много не нажимай на и не зажимай shift - повиснет браузер. Иногда после enter прекращается ввод текста, общем проблем хватает если есть идеи по их решению или причинам - буду рад.'
     document.body.append(enRu);
 
     //Объекты с будущими кнопками разбитые по рядами
